@@ -4,6 +4,6 @@
 <head>
   <h1> Hello world </h1>
   
-  // this is a test // 
+  <!-- this is a test -->
   <p> test </p>
 
