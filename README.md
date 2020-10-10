@@ -1,5 +1,5 @@
 # hello-world
-<DOCTYPE HTML!>
+<!DOCTYPE HTML>
 <html>
 <head>
   <h1> Hello world </h1>
